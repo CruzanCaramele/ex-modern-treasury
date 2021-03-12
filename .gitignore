@@ -25,3 +25,10 @@ modern_treasurer-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+# Temporary files for e.g. tests
+/config/*.secret.exs
+
+### Elixir Patch ###
+
+# End of https://www.toptal.com/developers/gitignore/api/elixir
